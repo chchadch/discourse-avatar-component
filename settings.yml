@@ -53,6 +53,6 @@ avatars_border_radius:
     - 30%
     - 40%
 mobile_avatars_size:
-  default: 35
-  min: 35
+  default: 30
+  min: 30
   max: 80
